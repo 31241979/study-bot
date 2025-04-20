@@ -3,7 +3,7 @@
 
 A sleek, AI-powered study assistant built using the Gemini 1.5 Pro API. Supports dark/light mode, natural language input, and tailored study suggestions. Built with pure HTML, CSS, and JS — no frameworks required.
 
-(![Gemini StudyBot Preview](https://github.com/user-attachments/assets/9bef7645-ecf5-4440-860e-91f83be98c57)
+![Gemini StudyBot Preview](https://github.com/user-attachments/assets/6d58052a-7cc4-4f0e-a864-c5bfb6946f87)
 
 ---
 
@@ -18,7 +18,8 @@ A sleek, AI-powered study assistant built using the Gemini 1.5 Pro API. Supports
 
 ## 📸 Preview
 
-![Preview](https://github.com/user-attachments/assets/c4d90341-bc71-409b-a357-e151658daf9e)
+![Learn](https://github.com/user-attachments/assets/77a7605d-63f2-4afd-9272-4fb2c2de2ce5)
+
 
 
 ---
